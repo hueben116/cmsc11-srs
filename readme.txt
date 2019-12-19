@@ -13,11 +13,11 @@ A code which serves as a database system of the records of CMSC11 students can a
           ▪ Standard deviation rounded to 3 decimal places
           ▪ Sum of all three Hands-On (Hex) Scores
           ▪ Grade – where it will be calculated based on the total hex score with the following grading system below:
-          • HD (High Distinction) = total score of 135 or more
-          • D (Distinction) = total score of 120 to 134
-          • P (Pass) = total score of 100 to 119
-          • C (Credit) = total score of 75 to 99
-          • F (Fail) = total score of 74 and below
+              • HD (High Distinction) = total score of 135 or more
+              • D (Distinction) = total score of 120 to 134
+              • P (Pass) = total score of 100 to 119
+              • C (Credit) = total score of 75 to 99
+              • F (Fail) = total score of 74 and below
           
   4.  Export masterlist and save as .csv file - The code is also designed to be able to export the masterlist to a file and save it as masterlist.csv with one student record per line and each information separated by a comma.
   
